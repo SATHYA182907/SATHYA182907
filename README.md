@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:161B22,70:7928CA,100:00F5FF&height=220&section=header&text=SATHYA%20M&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Hackathon%20Winner&descAlignY=60&descSize=17&descColor=00F5FF&animation=none" alt="Sathya M Hero Banner" />
 
-<!-- TYPING ANIMATION (OPTIMIZED WIDTH TO PREVENT CLIPPING) -->
+<!-- TYPING ANIMATION (RESPONSIVE WIDTH TO PREVENT CLIPPING) -->
 <a href="https://github.com/SATHYA182907">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=00F5FF&background=0D111700&center=true&vCenter=true&width=580&lines=Hi+there!+I'm+Sathya+M+%F0%9F%91%8B;Computer+Science+Engineer+(Class+of+2029);Full-Stack+Architect+%E2%80%A2+React%2C+Next.js%2C+Node.js;Building+Applied+AI+%26+Computer+Vision;Scalable+Backend+Services+%26+Cloud+APIs;1st+Prize+Winner+%40+AICCI+National+Summit+2026;Crafting+impactful+software+with+clean+code." alt="Typing Animation" />
 </a>
@@ -319,6 +319,34 @@ Modern collaborative educational platform enabling students to share curated stu
 <br/>
 
 <!-- ========================================================= -->
+<!--                    📊 CONTRIBUTION GRAPH                  -->
+<!-- ========================================================= -->
+
+## Contribution graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SATHYA182907/SATHYA182907/main/profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D contribution graph"/>
+
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SATHYA182907/SATHYA182907/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SATHYA182907/SATHYA182907/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SATHYA182907/SATHYA182907/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928CA,50:00F5FF,100:7928CA&height=3&animation=none" width="100%" />
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
 <!--               📊 GITHUB ANALYTICS & ACTIVITY              -->
 <!-- ========================================================= -->
 
@@ -328,7 +356,7 @@ Modern collaborative educational platform enabling students to share curated stu
 
 <div align="center">
 
-<!-- DUAL STATS CARDS (USING LIVE HIGH-RELIABILITY SERVER) -->
+<!-- DUAL STATS CARDS -->
 <table width="100%">
 <tr>
 <td width="50%" align="center">
@@ -342,17 +370,12 @@ Modern collaborative educational platform enabling students to share curated stu
 
 <br/>
 
-<!-- STREAK STATS (VERIFIED OPERATIONAL) -->
+<!-- STREAK STATS -->
 <img width="90%" src="https://streak-stats.demolab.com/?user=SATHYA182907&theme=tokyonight&hide_border=true&ring=00F5FF&fire=FF007F&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH (VERIFIED OPERATIONAL SERVER) -->
-<img src="https://activity-graph.vercel.app/graph?username=SATHYA182907&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF007F&area=true&hide_border=true&custom_title=Sathya%27s%20Contribution%20Pulse" width="100%" alt="Contribution Activity Graph" />
-
-<br/><br/>
-
-<!-- REPOSITORIES PER LANGUAGE CARD -->
+<!-- REPOSITORIES PER LANGUAGE & MOST COMMIT LANGUAGE CARDS -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SATHYA182907&theme=tokyonight" width="48%" alt="Repos Per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SATHYA182907&theme=tokyonight" width="48%" alt="Most Commit Language" />
 
@@ -361,7 +384,7 @@ Modern collaborative educational platform enabling students to share curated stu
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928CA,50:00F5FF,100:7928CA&height=3&animation=none" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7928CA,100:00F5FF&height=3&animation=none" width="100%" />
 </div>
 
 <br/>
