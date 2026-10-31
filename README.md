@@ -104,7 +104,7 @@
 <td width="33%" align="center" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/SELECTED_DEVELOPER-00F5FF?style=for-the-badge&logo=codeforces&logoColor=black" alt="SIH" />
-<h3>🎖️ Smart India Hackathon</h3>
+<h3>🎖️ Smart India Hackathon(SIH)</h3>
 <p><strong>SIH 2026</strong><br/>
 <em>Internal Hackathon Squad</em></p>
 <p>Selected as a core <strong>Software Developer</strong>, engineering full-stack software solutions tackling national-scale algorithmic problem statements.</p>
