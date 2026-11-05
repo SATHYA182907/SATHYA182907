@@ -56,7 +56,7 @@
 <td width="50%" valign="top">
 
 ### 🚀 What I Do
-* 🌐 **Modern Frontend:** High-performance, responsive web interfaces using **React, Next.js, and Tailwind CSS**.
+* 🌐 **Modern Frontend:** High-performance, responsive web interfaces using **React.js, Next.js, and Tailwind CSS**.
 * ⚙️ **Backend & APIs:** Robust RESTful services, microservices, and secure authentication with **Node.js, Express & FastAPI**.
 * 🧠 **AI & Machine Learning:** Applied computer vision and predictive data intelligence with **Python & TensorFlow**.
 * 🗄️ **Database Engineering:** High-efficiency data architecture with **PostgreSQL, MongoDB, Supabase & Firebase**.
